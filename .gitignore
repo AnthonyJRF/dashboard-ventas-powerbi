@@ -1,0 +1,9 @@
+# Power BI
+*.pbix.bak
+.pbi/
+# SQL Server / sistema
+*.ldf
+*.mdf
+*.bak
+.DS_Store
+Thumbs.db
